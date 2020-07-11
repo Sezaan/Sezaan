@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- I'm currently learning web developing.
+- I'm a competitive programmer.
+- I love problem solving
+
+[Codeforces](https://codeforces.com/profile/GeraltofRivia)
+[AtCoder](https://atcoder.jp/users/Bojack)
+[LinkedIn](https://www.linkedin.com/in/sezaan/)
+[Facebook](https://www.facebook.com/aimless.aimer)
