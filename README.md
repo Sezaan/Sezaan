@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - I'm currently learning web developing.
 - I'm a competitive programmer.
-- I love problem solving
+- I love problem solving.
 
 [Codeforces](https://codeforces.com/profile/GeraltofRivia)
 
