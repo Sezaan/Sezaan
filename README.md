@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - I'm a competitive programmer.
 - I love problem solving.
 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sezaan)  [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/aimless.aimer)
+
+
 [Codeforces](https://codeforces.com/profile/GeraltofRivia)
 
 [AtCoder](https://atcoder.jp/users/Bojack)
 
-[LinkedIn](https://www.linkedin.com/in/sezaan/)
-
-[Facebook](https://www.facebook.com/aimless.aimer)
