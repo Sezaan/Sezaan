@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- I'm currently learning web developing.
+- I'm currently learning web development.
 - I'm a competitive programmer.
 - I love problem solving.
 
